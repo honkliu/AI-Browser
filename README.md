@@ -16,6 +16,9 @@ Official releases for AI Browser — a browser where the web becomes a workspace
 | --- | --- | --- |
 | Windows x64 | [river_browser_0.1.0_x64-setup.exe](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/river_browser_0.1.0_x64-setup.exe) | Windows 11, x64 |
 | Windows on ARM | [river_browser_0.1.0_arm64-setup.exe](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/river_browser_0.1.0_arm64-setup.exe) | Windows 11 on ARM64 |
+| Mac on Apple Chip | [River_0.1.0_aarch64.dmg](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/River_0.1.0_aarch64.dmg) | Windows 11 on ARM64 |
+
+
 
 1. Download the installer for your platform and run it.
 2. Launch AI Browser.
@@ -141,7 +144,7 @@ AI Browser 官方发布版 —— 把网页变成可看、可排布、可用对�
 | --- | --- | --- |
 | Windows x64 | [river_browser_0.1.0_x64-setup.exe](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/river_browser_0.1.0_x64-setup.exe) | Windows 11 x64 |
 | Windows ARM | [river_browser_0.1.0_arm64-setup.exe](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/river_browser_0.1.0_arm64-setup.exe) | Windows 11 ARM64 |
-
+| Mac on Apple Chip | [River_0.1.0_aarch64.dmg](https://github.com/honkliu/AI-Browser/releases/download/v0.1.0/River_0.1.0_aarch64.dmg) | Windows 11 on ARM64 |
 1. 下载对应平台的安装包并运行。
 2. 启动 AI Browser。
 3. 连接模型：`设置 > 模型` → 填入模型名称、OpenAI 兼容接口地址和 API Key → **保存模型**。浏览器控制需要支持 tool calling 的模型。
